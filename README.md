@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi there, I'm Sreenivasula Reddy Mukkamalla
 
-<!--
-**Sri535/Sri535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Lead Performance Test Engineer @ Verizon  
+🎯 Passionate about **Performance Engineering**, **Chaos Testing**, and **Automation Solutions**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech & Tools I Work With
+
+- 💻 **Performance Testing Tools**: JMeter, LoadRunner, k6  
+- ⚙️ **Chaos Engineering**: Manual Chaos Experiments  
+- 🧪 **Test Automation**: Python, Selenium, REST APIs  
+- ☁️ **Cloud Platforms**: AWS, Azure  
+- 🧩 **CI/CD Pipelines**: Jenkins, GitHub Actions  
+- 📊 **Monitoring & Observability**: Grafana, Prometheus, New Relic, Splunk  
+
+---
+
+## 💡 What I'm Currently Working On
+
+- Automating performance test result analysis and reporting  
+- Enhancing SLA validation and email-based test reporting  
+- Building reusable test frameworks and utilities for large-scale load testing  
+
+---
+
+## 🛠️ Featured Projects
+
+- **PerformanceTestAutomations**: Automates JMeter performance test reports with HTML parsing, SLA validation, and email notifications  
+- **ChaosExperimentFramework**: [Coming soon] A modular framework for introducing chaos into microservices environments  
+
+---
+
+## 🌐 Let's Connect
+
+- 📧 [Email](mailto:sreenivasula.mukkamalla@outlook.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sreenivasula-reddy-mukkamalla-qa/)  
+- 🧑‍💻 [GitHub](https://github.com/Sri535)
+
+---
+
+_“Break it to make it better” — Embracing failures to build stronger, resilient systems._
+
