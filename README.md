@@ -42,7 +42,11 @@
 _“Break it to make it better” — Embracing failures to build stronger, resilient systems._
 
 ----
-## 🌐 Vistors
 
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Sri535&title=Profile%20Views&edge_flat=false)
+## Visitor Stats
+
+![Views](https://komarev.com/ghpvc/?username=Sri535&color=brightgreen)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Sri535.Sri535)
+
+
 
